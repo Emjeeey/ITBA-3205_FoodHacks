@@ -19,7 +19,7 @@
     
    **Methods**
    
-    We choose the Agile Development Methodology as guidance in developing the system to achieve the objectives of the study.
+We choose the Agile Development Methodology as guidance in developing the system to achieve the objectives of the study.
 Illustrated below is the Agile Model, with phases including requirements, design, development, testing, deployment, and review. We used this model because of its flexibility and it also allows changes within a short period and adjustments to changing demands.
     
    **Expected Output**
