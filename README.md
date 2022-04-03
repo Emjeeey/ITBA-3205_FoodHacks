@@ -23,5 +23,4 @@ The proponents aim to develop an app that will reduce food waste and loss. This 
     
     
    **Expected Output**
-   
-        The project's planned outcome is an application called "FoodHacks," which allows users to search and explore various types of recipes for their leftover food. The user may select and examine the recipe they desire, and the app will walk them through the procedure step by step. The user can also view suggestions from other people who are having similar problems with their left-over foods.
+    The project's planned outcome is an application called "FoodHacks," which allows users to search and explore various types of recipes for their leftover food. The user may select and examine the recipe they desire, and the app will walk them through the procedure step by step. The user can also view suggestions from other people who are having similar problems with their left-over foods.
