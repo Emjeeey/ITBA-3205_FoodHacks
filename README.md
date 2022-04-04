@@ -24,4 +24,4 @@
     
    **Expected Output**
    
-   
+This research is planned to produce an exploratory data analysis to discover the impact of the climate change on the Filipino Farmers from the year of 2016 -20 22 as well as Crops Statistics of the Philippines 2016-2020, and Rice and Corn Stocks Inventory, January 2022. With the help of the data analysis the researchers will be able to uncover strategies to avoid or mitigate climate change in the Philippines by constructing exploratory data analysis for this study. Farmers will profit as well, since they will be able to adjust to the unexpected change in weather. 
