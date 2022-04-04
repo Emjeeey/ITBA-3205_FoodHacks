@@ -20,8 +20,7 @@
     
    **Methods**
    
-
-
+  This project focuses on  mitigating the effects of climate change which has greater impact in terms of agriculture here in Philippines. Farmers will be able to suffer for a long time of there are no response against the effects of climate change. The researchers will be able to conduct an exploratory approach based from the data sets gathered for this study. The primary objective of this exploratory approach is to discover the possible ways on how to lessen the impact of climate change to the agricultural departments especially to the farmers who are suffering the most of its effects. Once the data has been analyzed, the exploratory analysis will help the researcher to develop ideas and and to uncover strategies for the effects cimate change.
     
    **Expected Output**
    
