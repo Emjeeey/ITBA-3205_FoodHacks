@@ -14,7 +14,7 @@
 Farmers may find climate change to be a source of dispute, creating impediments to actual farm produce unless correct modifications and technical adaption models are absorbed and implemented.
 
 
-**Significance of the proposed project**
+**Purpose of the Study**
 
   The objective of this study is stated below as follows.
 i.	To investigate the effects of various climate changes on farm produce in the Philippines.
