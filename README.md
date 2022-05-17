@@ -18,8 +18,8 @@ Farmers may find climate change to be a source of dispute, creating impediments 
 
   The objective of this study is stated below as follows.
 i.	To investigate the effects of various climate changes on farm produce in the Philippines.
-ii.	ii. To evaluate various adaption options that farmers could use to respond to climate change.
-iii.	To raise knowledge about climate change and how it can be managed on farm products by farmers, as well as to examine the variables that contribute to climate change and the challenge that farmers confront.
+ii.	To evaluate various adaption options that farmers could use to respond to climate change.
+iii. To raise knowledge about climate change and how it can be managed on farm products by farmers, as well as to examine the variables that contribute to climate change and the challenge that farmers confront.
 
 
 **Methods**
