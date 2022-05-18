@@ -1,4 +1,4 @@
-# Project Title: Perception of Farmers on the Effect of Climate Change on Farm Produce in the Philippines Using EDA
+# Project Title: Farmers on the Effect of Climate Change on Farm Produce in the Philippines Using EDA
 
 **Introduction**
 
