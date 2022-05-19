@@ -9,7 +9,9 @@ Human trafficking, sometimes known as modern-day slavery, is a multibillion-doll
   
 **Problem Statement**
 
- According to the Central Bureau of Investigation, 135,000 children in India are victims of human trafficking each year and with this, the investigation conducted suggests that India's citizen and people are being violated against their wills which also shows how deep the problem within its government.
+ According to the Central Bureau of Investigation, 135,000 children in India are victims of human trafficking each year and with this, the investigation conducted suggests that India's citizen and people are being violated against their wills which also shows how deep the problem within its government and country.
+
+Human Trafficking is not an easy topic and issue to begin with but for someone who has the control on power, money and law can easily outrun the truth and justice as much as its convenient to their advantages. As of today, the citizens of India faces a great hindrance on attaining their rights and equal treatment as their are many variables that denies it. With that being said the lack of attention and strong punishment with the violators are one of the main problem that needs to be immediately addressed.
 
 
 
