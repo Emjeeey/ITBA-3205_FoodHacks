@@ -38,6 +38,21 @@ iii. To analyze the victims that have been trafficked, gender, age/group,  purpo
 
 
 
+ **Methods**
  
-  
+ 
+ 
+ 
+ **Expected Output**
+ 
+ 
+ 
+ 
+ 
+ **Sustainable Development Goals (SDGs) of the Project**
+ 
+  The SDGs that this project aims to accomplish are first no poverty, and second peace, justice, and strong institutions. 
+
+The following are further definitions of the SDGs:
+1.**Goal 1 : No Poverty
 
