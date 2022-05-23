@@ -22,7 +22,8 @@ Despite being the world's largest democratic republic, India suffers from widesp
 
 
 **Objective of the Study**
-The objective of this study are:
+
+ The objective of this study are:
 i. To raise awareness that many people have been manipulated to do wrongdoings or have been abused because of human trafficking.
 ii. To make recommendations for preventing human trafficking in India.
 iii. To analyse the total number of human trafficking cases reported per State/Union Territories in India, number of victims trafficked/rescued, nationality of the victims, age-group, purpose of trafficking, police and court disposal of cases, and number of culprits arrested/acquitted in year 2019-2020. 
