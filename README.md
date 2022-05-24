@@ -55,11 +55,13 @@ iii. To analyze the victims that have been trafficked, gender, age/group,  purpo
 
 The following are further definitions of the SDGs:
 
+
+![](Images/sdgPoverty.PNG)
 1.  **Goal 1 : No Poverty** - This SDG aims to end poverty in all its form everywhere (sdgs.un.org)
 
 
-2.  **Goal 16: Peace, Justice and Strong Institutions** - This SDG aims to promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and iclusive institutions at all levels. (sdgs.un.org)
-
 
 ![](Images/sdg16.PNG)
-![](Images/sdgPoverty.PNG)
+
+2.  **Goal 16: Peace, Justice and Strong Institutions** - This SDG aims to promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and iclusive institutions at all levels. (sdgs.un.org)
+
