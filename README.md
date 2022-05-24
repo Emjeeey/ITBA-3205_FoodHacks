@@ -46,7 +46,7 @@ This study will focus on data about the major factors of human trafficking. By c
  
  **Expected Output**
  
- 
+The increasing number of human trafficking victims may lead into various crimes and a great barrier in attaining their social rights and equality. According to the UNODC website, human trafficking is considered as the second largest organised crime in India. Human trafficking is still a major issue in India, despite the fact that it is banned under Indian law. These study aims to produce an exploratory data analysis based from the data gathered from reliable websites containing informations about the cases of human trafficking in India. The data collected will be analyzed and be utilized to develop a human trafficking awareness campaign that can potentially help individuals especially women and children to be educate about their rights and to be aware about the effects of human trafficking to help reduce victimization within vulnerable populations especially India. 
  
  
  
