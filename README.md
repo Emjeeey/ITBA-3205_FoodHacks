@@ -39,7 +39,8 @@ iii. To analyze the victims that have been trafficked, gender, age/group,  purpo
 
 
  **Methods**
- This study will focus on data about the major factors of human trafficking. By creating a data analysis about the factors of human trafficking, the researchers are able to analyze the the information collected, evaluate and rank the factors of human trafficking. This study employs an analytical approach, that will able to breakdown the facts and information relevant to the study, and assisting the researchers in adding elements that reflect as a solution for the problem. Important and useful information was gathered from reliable sources or websites from the internet to examine and analyze factors related to human trafficking.
+ 
+This study will focus on data about the major factors of human trafficking. By creating a data analysis about the factors of human trafficking, the researchers are able to analyze the the information collected, evaluate and rank the factors of human trafficking. This study employs an analytical approach, that will able to breakdown the facts and information relevant to the study, and assisting the researchers in adding elements that reflect as a solution for the problem. Important and useful information was gathered from reliable sources or websites from the internet to examine and analyze factors related to human trafficking.
  
  
  
