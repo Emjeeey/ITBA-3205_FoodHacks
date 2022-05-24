@@ -60,3 +60,6 @@ The following are further definitions of the SDGs:
 
 2.  **Goal 16: Peace, Justice and Strong Institutions** - This SDG aims to promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and iclusive institutions at all levels. (sdgs.un.org)
 
+
+![](Images/sdg16.PNG)
+![](Images/sdgPoverty.PNG)
