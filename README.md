@@ -8,8 +8,7 @@ Human trafficking, sometimes known as modern-day slavery, is a multibillion-doll
   There are also child kidnappings occur alongside the women's trade. Kidnappers force many of the victims to work in the agricultural and manufacturing industries. According to India Today a popular news platform in India, it stated that in 2017, 26 kids went missing from the railway stations. Out of the 22 missing kids, 9 were abducted from the New Delhi Railway station while 8 of them were kidnapped from the Old Delhi station. The majority of these disappearances go unnoticed due to the station's hectic atmosphere. Because of poverty and violence at home, many of these children either live near the station or travel out to work despite the dangers and illegality of child labor. Despite being the world's largest democratic republic, India suffers from widespread poverty and a lack of sufficient education, leading to a slew of human rights violations, particularly against women, girls, and children. 
   Children are particularly vulnerable to human trafficking in countries that have a large number of children, specifically in India. This case is already a crisis in India. According to the Centre for Monitoring the Indian Economy, this crisis got worse due to the unemployment of 122 million people in India due to the impact of the COVID-19 pandemic. According to Neetah Lal, children are more vulnerable when their families are financially insecure. Traffickers prey on such vulnerable families by promising a new job, increased income, improved living conditions, and financial assistance. It's no surprise that child labor continues to thrive throughout large swaths of India, with industry studies estimating that over eight million youngsters aged five to 14 toil in fields, dangerous factories, shops, and homes.
   Aside from being vulnerable of the victims, there are some factors that motivate traffickers. According to India’s 2008 Integrated Plan of Action to Prevent and Combat Human Trafficking, the scale of the problem is enormous "both in [the] growing number of trafficked people and in the growing number of locations." Traffickers are motivated by high profits and a low risk of detection due to weak law enforcement and low levels of prosecution.
-  Despite being the world's largest democratic republic, India suffers from widespread poverty and a lack of sufficient education, leading to a slew of human rights violations, particularly against women and girls. This study aims to discover why women and children are the most vulnerable for human trafficking, why people are being kidnapped and for what reason using the datasets that has been gathered ny the researchers. It contains victims that have been trafficked, gender, age/group,  and purpose of the trafficking 2019, 
-  
+  Despite being the world's largest democratic republic, India suffers from widespread poverty and a lack of sufficient education, leading to a slew of human rights violations, particularly against women and girls. This study aims to discover why women and children are the most vulnerable for human trafficking, why people are being kidnapped and for what reason using the datasets that has been gathered ny the researchers. 
   
   
 **Problem Statement**
@@ -30,7 +29,6 @@ i. To raise awareness that many people have been manipulated to do wrongdoings o
 
 ii. To make recommendations for preventing human trafficking in India.
 
-iii. To analyze the victims that have been trafficked, gender, age/group,  and purpose of the trafficking 2019, 
 
  
 
