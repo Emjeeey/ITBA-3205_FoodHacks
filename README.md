@@ -25,9 +25,11 @@ Despite being the world's largest democratic republic, India suffers from widesp
 
  The objective of this study are:
  
-i. To raise awareness that many people have been manipulated to do wrongdoings or have been abused because of human trafficking.
+i.   To determine the reason why does women and children in India are prone in human trafficking.
 
-ii. To make recommendations for preventing human trafficking in India.
+ii.  To determine the main purpose and agenda of human trafficking in India.
+
+iii. To be able to raise an awareness regarding human trafficking most especially in India.
 
 
  
