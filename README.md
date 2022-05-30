@@ -29,7 +29,7 @@ i.   To determine the reason why women and children in India are prone in human 
 
 ii.  To determine the main purpose and agenda of human trafficking in India.
 
-iii. To be able to raise awareness regarding human trafficking most especially in India.
+iii. To be able to raise awareness regarding human trafficking most especially in the country of India and to create solution on how to prevent it.
 
 
  
