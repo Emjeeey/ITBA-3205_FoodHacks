@@ -64,5 +64,11 @@ The following are further definitions of the SDGs:
 
 2.  **Goal 16: Peace, Justice and Strong Institutions** - This SDG aims to promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and iclusive institutions at all levels. (sdgs.un.org)
 
+Link For Video Presentations
 
-[![ITBA-3205_HumanTraffickingINDIA](https://img.youtube.com/nG7_f8orcf4/0.jpg)](https://www.youtube.com/watch?v=nG7_f8orcf4)
+Gmeet Video Presentation
+[![ITBA-3205_HumanTraffickingINDIA](https://img.youtube.com/vi/nG7_f8orcf4/0.jpg)](https://www.youtube.com/watch?v=nG7_f8orcf4)
+
+Final Video Presentation
+[![ITBA-3205_HumanTraffickingINDIA](https://img.youtube.com/vi/4AEObUCuVTk/0.jpg)](https://www.youtube.com/watch?v=4AEObUCuVTk)
+
